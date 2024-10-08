@@ -6,4 +6,5 @@ Important Note: Due to project privacy concerns, the repository is private, and 
 If you would like to discuss the project further or arrange a call to view the code, please feel free to email me at [dev.qasim3@mgail.com].
 
 ![Untitled design (8)](https://github.com/user-attachments/assets/7cf46522-4605-4357-9270-9245a35ad475)
-![smartmockups_m1zgccaf](https://github.com/user-attachments/assets/68d35ce9-f2c6-4fb5-8475-552d35a2c7cd)
+
+https://github.com/user-attachments/assets/68d35ce9-f2c6-4fb5-8475-552d35a2c7cd
